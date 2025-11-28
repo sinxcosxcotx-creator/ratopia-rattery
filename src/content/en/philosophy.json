@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "eyebrow": "Ratopia philosophy",
+    "title": "Why and how we breed",
+    "subtitle": "Breeding is not just about producing more rats. It is about shaping healthy, stable companions while respecting their welfare."
+  },
+  "sections": [
+    {
+      "id": "pillars",
+      "type": "grid-cards",
+      "title": "Four pillars of Ratopia",
+      "subtitle": "These principles guide every pairing decision and every adoption.",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Temperament comes first",
+          "text": "We keep and breed rats that are curious, people-oriented and recover quickly from stress. We do not keep rats with chronic fear or aggression, even if they look rare or pretty.",
+          "icon": "/assets/icons/heart.svg"
+        },
+        {
+          "title": "Health and longevity",
+          "text": "We track family health histories, remove problematic branches, and avoid repeating pairings that show patterns of early illness, tumors or severe respiratory issues.",
+          "icon": "/assets/icons/health.svg"
+        },
+        {
+          "title": "Ethical scale",
+          "text": "We keep numbers small so that every rat is known as an individual. No back-to-back litters, no breeding to fill orders, and no pairing just for color experiments.",
+          "icon": "/assets/icons/scale.svg"
+        },
+        {
+          "title": "Honesty and transparency",
+          "text": "We share what we know, but also what we do not know yet. Lines in development will be clearly labeled, and adopters are told about both strengths and weaknesses.",
+          "icon": "/assets/icons/document.svg"
+        }
+      ]
+    },
+    {
+      "id": "breeding-choices",
+      "type": "split",
+      "title": "How we make pairing decisions",
+      "layout": "image-right",
+      "image": {
+        "src": "/assets/photos/pair-evaluation.jpg",
+        "alt": "Evaluating rats before pairing"
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Before planning a litter, we look at the temperament, health, structure and background of both parents. We are not chasing a single trait, but looking at the overall picture."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a rat has a wonderful temperament but a weaker health history, they may still be loved as a pet and not used in breeding. Likewise, a healthy animal that hates handling will not be used, even if their genotype is interesting."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "No intentional inbreeding.",
+            "No breeding rats with severe chronic issues.",
+            "No breeding purely \"because they are pretty\"."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adoption-policy",
+      "type": "rich-text",
+      "title": "Adoption and placement",
+      "subtitle": "Finding the right homes matters just as much as breeding the right rats.",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "We prefer adopters who are willing to learn, ask questions and adjust husbandry when presented with new information. Perfect cages and setups are not required, but openness and responsibility are."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Rats should be kept with compatible companions, not alone.",
+            "Adequate space, ventilation and enrichment are non-negotiable.",
+            "Adopters should be prepared for veterinary care and ageing."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If an adopter's situation changes, we would always rather be contacted early than have rats silently neglected or abandoned."
+        }
+      ]
+    }
+  ]
+}
